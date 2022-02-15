@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<p align="center">SEVN: Teste Front-end 01</p>
+<p align="center">🤓&nbsp;&nbsp;&nbsp;SEVN: Teste Front-end 01 &nbsp;&nbsp;&nbsp;💻</p>
 
 <br>
 <br>
@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.figma.com/file/uCtGlzgDqEvSYvqffM6ARJ/Teste-SEVN?node-id=1%3A2">VER DESIGN COMPLETO (2 TELAS)</a>
+  <a href="https://user-images.githubusercontent.com/1953194/153975888-5584321f-a764-4fd6-89ed-614fa9265870.png">VER DESIGN COMPLETO (2 TELAS)</a>
 </p>
 
 <br>
@@ -28,13 +28,13 @@
 
 Bem vindo(a) ao teste front-end da SEVN!
 
-O teste consiste da seguinte tarefa: Criar um projeto SvelteKit com duas telas do **SEVN NEWS**, um portal de notícias hipotético.
+O teste consiste em: Criar um projeto em **Next.js** ou **SvelteKit** com duas telas do **SEVN NEWS**, um portal de notícias hipotético.
 
 Você deve criar as telas com base no design [deste link](https://www.figma.com/file/uCtGlzgDqEvSYvqffM6ARJ/Teste-SEVN?node-id=1%3A2).
 
 ### Telas:
-- **Home:** Um fragmento da "homepage" de um portal, contendo as notícias mais importantes.
-- **Notícia:** Uma página interna com a notícia completa, que deve ser aberta sempre que você clique em uma notícia.
+- **Home:** Uma página que simula a "homepage" de um portal, contendo as notícias mais importantes.
+- **Notícia:** Uma página interna com a notícia completa, que deve ser aberta sempre que você clique em uma notícia da home.
 
 
 ## O que será avaliado
@@ -58,22 +58,22 @@ Sua capacidade de construir um layout responsivo, componentizável (ou seja, rea
 - Que você entregue um repositório apenas com um commit "gigante" com todo o código. Também gostamos de ler commits! :-)
 
 ## Como entregar o projeto?
-Crie um repositório **antes de começar o desenvolvimento**, realize o teste fazendo seus commits normalmente, e ao final do teste, é só compartilhar o repositório conosco!
+Crie um repositório **antes de começar o desenvolvimento**, realize o teste fazendo seus commits normalmente, e ao final do teste, é só compartilhar o repositório conosco através do email: <a href="mailto:vagas@sevn.technology">vagas@sevn.technology</a>!
 
 ## Outras dúvidas
 
-**Posso utilizar SASS?**
+**Posso utilizar SASS?**<br>
 R: SASS e PostCSS estão liberados.
 
-**Por que não posso usar Bootstrap?**
+**Por que não posso usar Bootstrap?**<br>
 Porque nosso objetivo, dentre outras coisas, é avaliar sua capacidade de construir um layout com seus próprios conhecimentos em CSS. O uso de frameworks pode atrapalhar nisso, e nem todo projeto utiliza esses frameworks.
 
-**Posso usar outro framework?**
+**Posso usar outro framework?**<br>
 Não, apenas SvelteKit ou Next.js.
 
-**Como eu lido com a responsividade se não tem layout mobile?**
-Nós buscamos uma responsividade básica, e esse é um layout simples, então estamos curiosos para ver como você faria para tornar as duas telas responsivas.
+**Como eu lido com a responsividade se não tem layout mobile?**<br>
+Nós buscamos uma responsividade básica, e esse é um layout simples, então estamos curiosos para ver como você faria para tornar as duas telas responsivas! :-)
 
 ----
 
-No mais, te desejamos boa sorte e estamos ansiosos para ver como você se saiu!
+No mais, te desejamos boa sorte e estamos ansiosos para ver como você se saiu! 🥳
