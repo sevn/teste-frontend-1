@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img align="center" width="640" alt="Home" src="https://user-images.githubusercontent.com/1953194/153972277-7d1f73d0-d504-4f97-8094-600117a63731.png">
+  <img align="center" width="640" alt="Home" src="https://user-images.githubusercontent.com/1953194/153975888-5584321f-a764-4fd6-89ed-614fa9265870.png">
 </p>
 
 <br>
@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <a href="https://user-images.githubusercontent.com/1953194/153975888-5584321f-a764-4fd6-89ed-614fa9265870.png">VER DESIGN COMPLETO (2 TELAS)</a>
+  <a href="https://www.figma.com/file/uCtGlzgDqEvSYvqffM6ARJ/Teste-SEVN?node-id=1%3A2">VER DESIGN COMPLETO (2 TELAS)</a>
 </p>
 
 <br>
