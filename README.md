@@ -28,7 +28,7 @@
 
 Bem vindo(a) ao teste front-end da SEVN!
 
-O teste consiste em: Criar um projeto em **Next.js** ou **SvelteKit** com duas telas do **SEVN NEWS**, um portal de notícias hipotético.
+O teste consiste em: Criar um projeto em [**Next.js**](https://nextjs.org/) ou [**SvelteKit**](https://kit.svelte.dev/) com duas telas do **SEVN NEWS**, um portal de notícias hipotético.
 
 Você deve criar as telas com base no design [deste link](https://www.figma.com/file/uCtGlzgDqEvSYvqffM6ARJ/Teste-SEVN?node-id=1%3A2).
 
@@ -53,7 +53,7 @@ Sua capacidade de construir um layout responsivo, componentizável (ou seja, rea
 **Lembre-se:** Muitos commits detalhando as atividades são melhores que poucos commits com mensagens genéricas e muito código.
 
 ## O que não esperamos
-- Que sejam usados frameworks CSS como Bootstrap, Material.css, e afins.
+- Que sejam usados frameworks CSS como Bootstrap, Material.css, Tailwind CSS e afins.
 - Que o projeto seja feito em qualquer framework que não seja **Next.js** ou **SvelteKit**.
 - Que você entregue um repositório apenas com um commit "gigante" com todo o código. Também gostamos de ler commits! :-)
 
@@ -65,7 +65,10 @@ Crie um repositório **antes de começar o desenvolvimento**, realize o teste fa
 **Posso utilizar SASS?**<br>
 R: SASS e PostCSS estão liberados.
 
-**Por que não posso usar Bootstrap?**<br>
+**Posso utilizar CSS-in-JS?**<br>
+R: Nossos projetos não utilizam CSS-in-JS. Recomendamos que seu teste seja feito utilizando CSS/SASS/PostCSS.
+
+**Por que não posso usar Bootstrap/Tailwind CSS?**<br>
 Porque nosso objetivo, dentre outras coisas, é avaliar sua capacidade de construir um layout com seus próprios conhecimentos em CSS. O uso de frameworks pode atrapalhar nisso, e nem todo projeto utiliza esses frameworks.
 
 **Posso usar outro framework?**<br>
