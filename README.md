@@ -36,6 +36,14 @@ Você deve criar as telas com base no design [deste link](https://www.figma.com/
 - **Home:** Uma página que simula a "homepage" de um portal, contendo as notícias mais importantes.
 - **Notícia:** Uma página interna com a notícia completa, que deve ser aberta sempre que você clique em uma notícia da home.
 
+### APIs:
+
+O projeto consome 3 endpoints, sendo 2 para montar a Home, e 1 para a tela de Notícia:
+
+URL BASE: https://apimock.sevn.technology
+- [`/news/headlines`](https://apimock.sevn.technology/news/headlines): Três artigos principais da Home.
+- [`/news/others`](https://apimock.sevn.technology/news/others): Os artigos restantes que ficam abaixo das headlines.
+- [`/news/articles/:id`](https://apimock.sevn.technology/news/articles/1): Detalhes de um artigo específico.
 
 ## O que será avaliado
 
