@@ -30,7 +30,7 @@ Bem vindo(a) ao teste full stack da SEVN!
 
 O teste consiste em:
 1. Criar um projeto em [**Next.js**](https://nextjs.org/) ou [**SvelteKit**](https://kit.svelte.dev/) com duas telas do **SEVN NEWS**, um portal de notícias hipotético.
-2. Criar uma API RESTful Node.js ([Express.js](https://expressjs.com/pt-br/) ou [Koa](https://koajs.com/)) que expõe os 3 endpoints que esse portal consumirá.
+2. Criar uma API RESTful Node.js ([**Express.js**](https://expressjs.com/pt-br/) ou [**Koa**](https://koajs.com/)) que expõe os 3 endpoints que esse portal consumirá.
 
 Você deve criar as telas com base no design [deste link](https://www.figma.com/file/uCtGlzgDqEvSYvqffM6ARJ/Teste-SEVN?node-id=1%3A2).
 
