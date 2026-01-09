@@ -61,7 +61,7 @@ Sua capacidade de construir um layout responsivo, componentizável (ou seja, rea
 **Lembre-se:** Muitos commits detalhando as atividades são melhores que poucos commits com mensagens genéricas e muito código.
 
 ## O que não esperamos
-- Que sejam usados frameworks CSS como Bootstrap, Material.css, Tailwind CSS e afins.
+- Que sejam usados frameworks CSS como Bootstrap, Material.css e afins.
 - Que o projeto seja feito em qualquer framework que não seja **Next.js** ou **SvelteKit**.
 - Que você entregue um repositório apenas com um commit "gigante" com todo o código. Também gostamos de ler commits! :-)
 
@@ -70,13 +70,16 @@ Crie um repositório **antes de começar o desenvolvimento**, realize o teste fa
 
 ## Outras dúvidas
 
+**Posso utilizar Tailwind?**<br>
+R: Sim.
+
 **Posso utilizar SASS?**<br>
-R: SASS e PostCSS estão liberados.
+R: Sim, SASS e PostCSS estão liberados.
 
 **Posso utilizar CSS-in-JS?**<br>
-R: Nossos projetos não utilizam CSS-in-JS. Recomendamos que seu teste seja feito utilizando CSS/SASS/PostCSS.
+R: Nossos projetos não utilizam CSS-in-JS. Recomendamos que seu teste seja feito utilizando CSS ou Tailwind ou SASS ou PostCSS.
 
-**Por que não posso usar Bootstrap/Tailwind CSS?**<br>
+**Por que não posso usar Bootstrap?**<br>
 Porque nosso objetivo, dentre outras coisas, é avaliar sua capacidade de construir um layout com seus próprios conhecimentos em CSS. O uso de frameworks pode atrapalhar nisso, e nem todo projeto utiliza esses frameworks.
 
 **Posso usar outro framework?**<br>
