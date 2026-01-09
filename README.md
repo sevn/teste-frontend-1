@@ -41,9 +41,9 @@ Você deve criar as telas com base no design [deste link](https://www.figma.com/
 O projeto consome 3 endpoints, sendo 2 para montar a Home, e 1 para a tela de Notícia:
 
 URL BASE: https://apimock.sevn.technology
-- [`/news/headlines`](https://apimock.sevn.technology/news/headlines): Três artigos principais da Home.
-- [`/news/others`](https://apimock.sevn.technology/news/others): Os artigos restantes que ficam abaixo das headlines.
-- [`/news/articles/:id`](https://apimock.sevn.technology/news/articles/1): Detalhes de um artigo específico.
+- [`/news/headlines`](https://api-teste-frontend-1.sevn.workers.dev/news/headlines): Três artigos principais da Home.
+- [`/news/others`](https://api-teste-frontend-1.sevn.workers.dev/news/others): Os artigos restantes que ficam abaixo das headlines.
+- [`/news/articles/:id`](https://api-teste-frontend-1.sevn.workers.dev/news/articles/1): Detalhes de um artigo específico.
 
 ## O que será avaliado
 
@@ -66,7 +66,7 @@ Sua capacidade de construir um layout responsivo, componentizável (ou seja, rea
 - Que você entregue um repositório apenas com um commit "gigante" com todo o código. Também gostamos de ler commits! :-)
 
 ## Como entregar o projeto?
-Crie um repositório **antes de começar o desenvolvimento**, realize o teste fazendo seus commits normalmente, e ao final do teste, é só compartilhar o repositório conosco através do email: <a href="mailto:vagas@sevn.technology">vagas@sevn.technology</a>!
+Crie um repositório **antes de começar o desenvolvimento**, realize o teste fazendo seus commits normalmente, e ao final do teste, é só compartilhar o repositório conosco através do email: <a href="mailto:vagas@sevntech.com">vagas@sevntech.com</a>!
 
 ## Outras dúvidas
 
